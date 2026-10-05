@@ -178,10 +178,10 @@ https://distribution.sportitalialive.it/sportitalia/sisolocalcio_abr/playlist.m3
 https://distribution.sportitalialive.it/sportitalia/silive24_abr/playlist.m3u8
 
 #EXTINF:-1 tvg-id="MarcoPoloTravelTV.it" tvg-chno="61" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/traveltv.webp" group-title="Altro",Travel TV
-https://streaming.softwarecreation.it/GoldTvSat/GoldTvSat/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/marcopolotravel/_definst_/marcopolotravel/chunklist_w1226277768.m3u8
 
 #EXTINF:-1 tvg-id="DonnaTV.it" tvg-chno="62" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/donnatv.webp" group-title="Altro",Donna TV
-https://streaming.softwarecreation.it/DonnaTv/DonnaTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/donnatv/_definst_/donnatv/chunklist_w1747292792.m3u8
 
 #EXTINF:-1 tvg-id="SuperTennis.it" tvg-chno="64" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/supertennis.svg" group-title="Sport",Supertennis
 https://live-embed.supertennix.hiway.media/restreamer/supertennix_client/gpu-a-c0-16/restreamer/outgest/aa3673f1-e178-44a9-a947-ef41db73211a/manifest.m3u8
@@ -203,7 +203,7 @@ https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel3/manifest.mpd
 https://421b2081187a40368f24e4fb496bfc26.msvdn.net/channel4/manifest.mpd
 
 #EXTINF:-1 tvg-id="AlmaTV.it" tvg-chno="65" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/almatv.webp" group-title="Altro",Alma TV
-https://streaming.softwarecreation.it/AlmaTv/AlmaTv/playlist.m3u8
+https://5f11919dca3bd.streamlock.net/almatv/_definst_/almatv/playlist.m3u8
 
 #EXTINF:-1 tvg-id="Il61.it" tvg-chno="65" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/main/logos/il61.webp" group-title="Altro",Il 61
 https://5a1178b42cc03.streamlock.net/travel/travel/playlist.m3u8
@@ -580,3 +580,6 @@ https://wp10-s-anp33343334-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09320/s
 #KODIPROP:inputstream.adaptive.license_type=org.w3.clearkey
 #KODIPROP:inputstream.adaptive.license_key=a1387afabdd04dfc939593cb1724e8f7:38ecd1f7b8f248633490f6717d86e17d,72982d60457c390dbce4e8ba6aa9ff33:5574602ec1bfeda66f459ce603dc17fd
 https://wp2-s-anp31323132-live-ch-prod.prod.cdn.dmdsdp.com/live/disk1/SV09322/stb-dash-fhd-avc/SV09322.mpd
+
+#EXTINF:-1 tvg-id="Test.ustv.it" tvg-chno="211" tvg-logo="https://raw.githubusercontent.com/nicolofajette/Canali/refs/heads/develop/logos/eurosport.webp" group-title="Extra", TEST
+https://vps-bc4b65e2.vps.ovh.net:8080/channel/dlhd/878
